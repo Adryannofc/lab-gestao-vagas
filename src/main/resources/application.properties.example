@@ -1,0 +1,8 @@
+spring.application.name=lab-gestao-vagas
+
+spring.datasource.url=jdbc:postgresql://localhost:5433/gestao_vagas
+spring.datasource.username=SEU_USUARIO
+spring.datasource.password=SUA_SENHA
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
